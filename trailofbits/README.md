@@ -17,5 +17,5 @@ To keep up to date with our latest news and announcements, please follow @trailo
 
 ## Past Ai Layer Labs Security Audits:
 
-* [AI Layer Labs 6079 Smart Contracts Summary Reportpdf](./AI%20Layer%20Labs%206079%20Smart%20Contracts%20Summary%20Report.pdf)
-
+* [Publication on ToB reviews repo](https://github.com/trailofbits/publications/tree/master/reviews/2024-05-ailayerlabs-6079smartcontracts-securityreview.pdf
+)
