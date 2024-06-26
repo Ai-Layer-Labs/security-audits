@@ -13,3 +13,5 @@ Octane Security is an AI-driven blockchain security firm dedicated to safeguardi
 
 * [Octane Manual Audit.pdf](./Octane%20Manual%20Audit.pdf)
 
+* [Octane Manual Audit: Claim.pdf](./Octane%20Manual%20Audit:%20Claim.pdf)
+
